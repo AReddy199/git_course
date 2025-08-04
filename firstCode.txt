@@ -1,1 +1,4 @@
 hello world ? ? ?  /  ?  / pppp
+
+take input from user
+add the values
