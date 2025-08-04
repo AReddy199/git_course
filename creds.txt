@@ -1,2 +1,0 @@
-username = anilvuradi
-password = reddy@123
